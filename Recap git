@@ -1,0 +1,19 @@
+1. Version Control System 
+	sistem yang menyimpan dan mengelola rekaman
+	perubahan dari source cede
+2. Git
+	Salah satu software yang melakukan VCS
+3. GitHub
+	Website yang mengelola project git
+
+Istilah
+repo	Folder project kita
+commit	rekaman / snapshot dari repo kita
+hash	penenda unik pada sebuah commit
+chekout	berpindah ke sebuah commit
+branch	cabang bebas dari sebuah commit
+merge	menggabungkan branch
+remote	sumber yang memilki repo
+clone	mengambil repo dari remote
+push	mengirimkan commit ke repo
+pull	mengambil commit dari repo
